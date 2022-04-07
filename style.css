@@ -11,7 +11,7 @@
 
 header{
     width: 100%;
-    height: 18vh;
+    height: 14vh;
     background-position: bottom;
     background-color:#353535;
     overflow: hidden;
@@ -19,6 +19,10 @@ header{
     align-items: center;
     justify-content: center;
     
+}
+
+#logo{
+    height: 60px;
 }
 
 main{
@@ -57,7 +61,7 @@ button:hover{
 
 footer{
     width: 100%;
-    height: 12vh;
+    height: 16vh;
     background-color: #202020;
     color: #fff;
     display: flex;
